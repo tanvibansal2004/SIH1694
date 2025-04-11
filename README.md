@@ -1,6 +1,8 @@
 # AI-Driven Decision Support System for Water Quality Analysis of River Ganga
 
-## 🏆 Smart India Hackathon 2024 - Problem Statement SIH1694
+## 🏆 Smart India Hackathon 2024 - Problem Statement SIH1694 - WINNERS
+
+We are proud to announce that our team won this national level hackathon competing against hundreds of teams across India. Additionally, we were one of only 5 teams selected from over 150 participating teams to interact with the Honourable Prime Minister Narendra Modi regarding our innovative solution.
 
 ## 📋 Project Overview
 
@@ -10,13 +12,9 @@ This repository contains the code for our AI-Driven Decision Support System deve
 
 > **Note:** As we cannot publicly share the code or deploy the project due to ministerial constraints, we've included a video demonstration below to showcase the functionality.
 
-<div align="center">
-  <video width="800" controls>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><i>Project demonstration video</i></p>
-</div>
+https://github.com/yourusername/your-repo-name/assets/your-asset-path/demo.mp4
+
+*Note: Replace the above URL with the actual path to your video after uploading it to your repository.*
 
 ## 🌟 Key Features
 
@@ -60,12 +58,12 @@ While we cannot share all project details publicly, our future development roadm
 
 ## 👥 Team
 
-- Team Member 1 - Aditya Chaudhary - Backend Developer and Integration
-- Team Member 2 - Asher Ejaz - Research and Formulations
-- Team Member 3 - Dev Soni - Data Processing and Synthesizing
-- Team Member 4 - Naman Jain - Federated Learning Model 
-- Team Member 5 - Tanvi Bansal - UI/UX and Frontend Developer
-- Team Member 6 - Sanidhya Manglunia - Innovation and Formulations
+- Aditya Chaudhary - Backend Developer and Integration
+- Asher Ejaz - Research and Formulations
+- Dev Soni - Data Processing and Synthesizing
+- Naman Jain - Federated Learning Model 
+- Tanvi Bansal - UI/UX and Frontend Developer
+- Sanidhya Manglunia - Innovation and Formulations
 
 ## 📜 Disclaimer
 
@@ -77,4 +75,4 @@ We would like to thank the organizers of Smart India Hackathon 2024, our mentors
 
 ---
 
-© 2024 Nirvana1 | Smart India Hackathon 2024
+© 2024 [Your Team Name] | Smart India Hackathon 2024
