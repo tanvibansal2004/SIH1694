@@ -2,8 +2,6 @@
 
 ## 🏆 Smart India Hackathon 2024 - Problem Statement SIH1694
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Ganga+Water+Quality+DSS)
-
 ## 📋 Project Overview
 
 This repository contains the code for our AI-Driven Decision Support System developed during Smart India Hackathon 2024 for analyzing and predicting water quality parameters of the River Ganga. Due to ministerial constraints, the complete code and deployment are currently restricted from public access, but this README provides comprehensive information about the project.
