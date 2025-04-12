@@ -12,9 +12,7 @@ This repository contains the code for our AI-Driven Decision Support System deve
 
 > **Note:** As we cannot publicly share the code or deploy the project due to ministerial constraints, we've included a video demonstration below to showcase the functionality.
 
-https://github.com/yourusername/your-repo-name/assets/your-asset-path/demo.mp4
-
-*Note: Replace the above URL with the actual path to your video after uploading it to your repository.*
+https://github.com/tanvibansal2004/SIH1694/blob/main/SIHProjectDemo.mp4
 
 ## 🌟 Key Features
 
@@ -75,4 +73,4 @@ We would like to thank the organizers of Smart India Hackathon 2024, our mentors
 
 ---
 
-© 2024 [Your Team Name] | Smart India Hackathon 2024
+© 2024 Team Nirvana1 | Smart India Hackathon 2024
