@@ -12,7 +12,9 @@ This repository contains the code for our AI-Driven Decision Support System deve
 
 > **Note:** As we cannot publicly share the code or deploy the project due to ministerial constraints, we've included a video demonstration below to showcase the functionality.
 
-https://github.com/tanvibansal2004/SIH1694/main/SIHProjectDemo.mp4
+![Project Demo Video](https://github.com/tanvibansal2004/SIH1694/raw/main/SIHProjectDemo.mp4)
+
+If the video doesn't display properly above, you can [view the demo video here](https://github.com/tanvibansal2004/SIH1694/blob/main/SIHProjectDemo.mp4).
 
 ## 🌟 Key Features
 
